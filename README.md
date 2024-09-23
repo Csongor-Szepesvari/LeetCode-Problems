@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
