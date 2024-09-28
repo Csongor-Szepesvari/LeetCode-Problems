@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
