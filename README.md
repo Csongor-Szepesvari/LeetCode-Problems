@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0135-candy) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
