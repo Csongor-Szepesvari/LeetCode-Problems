@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0433-minimum-genetic-mutation](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0433-minimum-genetic-mutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0433-minimum-genetic-mutation](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0433-minimum-genetic-mutation) |
 ## Union Find
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0433-minimum-genetic-mutation](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0433-minimum-genetic-mutation) |
 ## Backtracking
 |  |
 | ------- |
