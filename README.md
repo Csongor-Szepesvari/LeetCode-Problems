@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -104,8 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
