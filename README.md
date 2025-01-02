@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0200-number-of-islands) |
