@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0433-minimum-genetic-mutation](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0433-minimum-genetic-mutation) |
 ## Backtracking
 |  |
