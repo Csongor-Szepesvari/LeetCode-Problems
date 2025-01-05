@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0433-minimum-genetic-mutation) |
 ## Backtracking
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
