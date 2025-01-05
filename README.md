@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Memoization
 |  |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
