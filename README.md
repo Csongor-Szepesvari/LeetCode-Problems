@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Memoization
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0043-multiply-strings) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
