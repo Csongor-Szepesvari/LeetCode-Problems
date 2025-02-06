@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
