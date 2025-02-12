@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 ## Sorting
