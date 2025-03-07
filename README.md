@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0200-number-of-islands) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Csongor-Szepesvari/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 ## Linked List
 |  |
 | ------- |
